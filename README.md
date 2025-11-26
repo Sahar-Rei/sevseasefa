@@ -1,2 +1,1 @@
-# sevseasefa
-bjsesj
+# First lesson of JavaScript.

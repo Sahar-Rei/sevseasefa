@@ -12,7 +12,7 @@ person = {
     age: 15,
     hobbies : {
         game: "mlbb",
-        music: 'rap'
+        music: 'russian rap'
     }
 }
 
@@ -65,4 +65,5 @@ console.log(fruits);
 const number = [2,3,5,7,10]
 
 const A = fruits.concat(number)
+
 console.log(A);
